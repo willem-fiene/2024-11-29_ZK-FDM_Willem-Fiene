@@ -1,4 +1,5 @@
 # This is not really my first bash script :)
+# Author: Willem Fiene
 
 echo "script started"
 
